@@ -109,7 +109,7 @@
 
 2) если смотреть на график ошибок, то Красный и Синий сошлись на 1 шаге, Оранжевый на 2. Графики ведут себя схоже, без значительных выбросов.
 
-[1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab4/raw/master/dop1.jpg)
+![1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab4/raw/master/dop1.jpg)
 Валидационная выборка:
 
 1) на графике точности явно лучше ситуация с Оранжевым, разброс у него из тройки минимальный.
