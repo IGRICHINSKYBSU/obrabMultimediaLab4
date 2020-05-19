@@ -116,5 +116,5 @@
 
 2) на графике ошибок Оранжевый и Красный ведут себя схоже. У Синего виден на 2 шаге большой выброс. Далее все графики идут гладко
 
-[1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab4/raw/master/dop2.jpg)
+![1](https://github.com/IGRICHINSKYBSU/obrabMultimediaLab4/raw/master/dop2.jpg)
 ### Исходя из вышесказанного считаю Оранжевый= (stddev=(50)/(255)) оптимальным.
